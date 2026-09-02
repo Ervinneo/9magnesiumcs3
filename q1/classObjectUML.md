@@ -9,7 +9,6 @@ A GovernmentOfficial is a person who holds or has a position in the government a
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
-| Property | Data Type | Description |
 | Name | String | Name of the government official |
 | Position | String | Official position |
 | Department | String | Government department  |
@@ -39,6 +38,7 @@ A GovernmentOfficial is a person who holds or has a position in the government a
 | yearsInService : int |
 
 +------------------------------------------------+
+
 | displayProfile() |
 | performDuty() |
 | updateYearsInService(years : int) |
