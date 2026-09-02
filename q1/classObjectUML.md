@@ -39,9 +39,9 @@ A GovernmentOfficial is a person who holds or has a position in the government a
 | yearsInService : int |
 
 +------------------------------------------------+
-| displayProfile()                               |
-| performDuty()                                  |
-| updateYearsInService(years : int)              |
+| displayProfile() |
+| performDuty() |
+| updateYearsInService(years : int) |
 
 +------------------------------------------------+
 
