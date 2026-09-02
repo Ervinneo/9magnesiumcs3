@@ -10,4 +10,4 @@ See the Python implementation: [zodiacSectionLN.py](zodiacSectionLN.py)
 
 ## Output
 
-![Zodiac Output](zodiac_output.png)
+![Zodiac Output](zodiac_output.png.png)
