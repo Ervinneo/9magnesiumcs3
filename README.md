@@ -9,26 +9,24 @@ Hobbies: Walking, Playing Badminton, Swimming
 ## Portfolio Structure
 
 ```
-your-portfolio/
+your-portfolio
 │
 ├── README.md
 │
-├── q1/
-│   └── ctskillsSectionLN.md
-│
+├── q1
+│   
+├──ctskillsSectionLN.md
 ├── zodiacSectionLN.py
 ├── zodiacSectionLN.md
-└── zodiac_output.png
-
+├── zodiac_output.png
+└──classObjectUML.md
 ```
 
 ## Projects
 
-### Question 1 (Q1)
+### (Q1)
 - [CT Skills Section](q1/ctskillsSectionLN.md)
-
-### Zodiac Project
-- [Zodiac Calculator (Python)](zodiacSectionLN.py)
-- [Zodiac Documentation](zodiacSectionLN.md)
-- [Output Screenshot](zodiac_output.png)
-- [OOPACT](classObjectUML.md)
+- [Zodiac Calculator (Python)](./q1/zodiacSectionln.py)
+- [Zodiac Documentation](./q1/zodiacSectionLN.md)
+- [Output Screenshot](./q1/zodiac_output.png)
+- [OOPACT](./q1/classObjectUML.md)
