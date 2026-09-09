@@ -29,4 +29,5 @@ your-portfolio
 - [Zodiac Calculator (Python)](./q1/zodiacSectionln.py)
 - [Zodiac Documentation](./q1/zodiacSectionLN.md)
 - [Output Screenshot](./q1/zodiac_output.png)
+- [ILA 3-1: Applying the Four Pillars of OOP](./q1/ila_oop.md)
 - [OOPACT](./q1/classObjectUML.md)

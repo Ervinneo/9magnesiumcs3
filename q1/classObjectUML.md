@@ -55,3 +55,10 @@ I think position is the most important because it tells us the official's role a
 
 ### Which method is the most useful? Why?
 I think displayProfile() is the most useful because it allows people to quickly view important information about a government official.
+
+
+## Design Revision
+Changes from my previous design:
+
+
+No major changes were needed from my original design.
