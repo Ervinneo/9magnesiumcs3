@@ -20,6 +20,7 @@ your-portfolio
 ├── zodiacSectionLN.md
 ├── zodiac_output.png
 └──classObjectUML.md
+
 ```
 
 ## Projects
@@ -28,7 +29,7 @@ your-portfolio
 - [CT Skills Section](q1/ctskillsSectionLN.md)
 - [Zodiac Calculator (Python)](/q1/zodiacsectionln.py)
 - [Zodiac Documentation](/q1/zodiacSectionLN.md)
-- [Output Screenshot](/q1/zodiac_output.png.png)
-- [Applying the Four Pillars of OOP](/q1/ILA%203-1:%20Applying%20the%20Four%20Pillars%20of%20OOP.md)
+- [Output Screenshot](/q1/zodiac_output.png)
+- [Applying the Four Pillars of OOP](/q1/ila_oop.md)
 - [OOPACT](/q1/classObjectUML.md)
 - [OOPACT2](/q1/OOP_ACT2.py)
