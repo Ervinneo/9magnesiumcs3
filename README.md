@@ -13,14 +13,20 @@ your-portfolio
 │
 ├── README.md
 │
-├── q1
-│   
+├── q1  
 ├──ctskillsSectionLN.md
 ├── zodiacSectionLN.py
 ├── zodiacSectionLN.md
-├── zodiac_output.png
-└──classObjectUML.md
-
+└── images/
+        ├── zodiac_output.png
+├── classObjectUML.md
+├── classImplementation.py
+├── classAttributesMethods.md
+└── images/
+    ├── classDiagram.png
+    ├── classDiagramSG5.png
+    ├── classTestRun.png
+    └── objectDiagram.png
 ```
 
 ## Projects
@@ -33,3 +39,4 @@ your-portfolio
 - [Applying the Four Pillars of OOP](/q1/ila_oop.md)
 - [OOPACT](/q1/classObjectUML.md)
 - [OOPACT2](/q1/OOP_ACT2.py)
+- [OOPACT]
