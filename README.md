@@ -39,7 +39,7 @@ q1/
 - [CT Skills Section](q1/ctskillsSectionLN.md)
 - [Zodiac Calculator (Python)](/q1/zodiacsectionln.py)
 - [Zodiac Documentation](/q1/zodiacSectionLN.md)
-- [Output Screenshot](/q1/zodiac_output.png)
+- [Output Screenshot](/Images/zodiac_output.png)
 - [Applying the Four Pillars of OOP](/q1/ila_oop.md)
 - [OOPACT](/q1/classObjectUML.md)
 - [OOPACT2](/q1/OOPACT2.md)
