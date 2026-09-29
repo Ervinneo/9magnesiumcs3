@@ -9,24 +9,28 @@ Hobbies: Walking, Playing Badminton, Swimming
 ## Portfolio Structure
 
 ```
-your-portfolio
+q1/
 │
-├── README.md
-│
-├── q1  
-├──ctskillsSectionLN.md
-├── zodiacSectionLN.py
-├── zodiacSectionLN.md
-└── images/
-        ├── zodiac_output.png
 ├── classObjectUML.md
 ├── classImplementation.py
 ├── classAttributesMethods.md
+├── classRelationships.py
+├── classRelationships.md
+├── advancedRelationships.py
+├── advancedRelationships.md
+│
 └── images/
     ├── classDiagram.png
     ├── classDiagramSG5.png
     ├── classTestRun.png
-    └── objectDiagram.png
+    ├── objectDiagram.png
+    ├── classRelationshipDiagram.png
+    ├── relationshipTestRun.png
+    ├── objectRelationshipDiagram.png
+    ├── inheritanceDiagram.png
+    ├── advancedClassDiagram.png
+    ├── advancedTestRun.png
+    └── advancedObjectDiagram.png
 ```
 
 ## Projects
