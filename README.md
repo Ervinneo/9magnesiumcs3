@@ -38,5 +38,5 @@ your-portfolio
 - [Output Screenshot](/q1/zodiac_output.png)
 - [Applying the Four Pillars of OOP](/q1/ila_oop.md)
 - [OOPACT](/q1/classObjectUML.md)
-- [OOPACT2](/q1/OOP_ACT2.py)
-- [OOPACT]
+- [OOPACT2](/q1/OOPACT2.md)
+- [OOPACT3]
