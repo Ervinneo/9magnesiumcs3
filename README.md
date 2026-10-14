@@ -33,7 +33,6 @@ q1/
     └── advancedObjectDiagram.png
 ```
 
-## Projects
 
 ### (Q1)
 - [CT Skills Section](q1/ctskillsSectionLN.md)
@@ -44,3 +43,5 @@ q1/
 - [OOPACT](/q1/classObjectUML.md)
 - [OOPACT2](/q1/OOPACT2.md)
 - [OOPACT3](/q1/OOP_ACT3.md)
+
+### (Q2)
