@@ -46,3 +46,4 @@ q1/
 
 ### (Q2)
 - [sg8](/q2/sg8_encapsulation.py)
+- [management system](/q2/Library%20management%20system.py)
