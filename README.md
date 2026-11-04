@@ -9,8 +9,9 @@ Hobbies: Walking, Playing Badminton, Swimming
 ## Portfolio Structure
 
 ```
-q1/
-│
+q1/                                                 q2/
+│                                                   │
+│                                                   ├── sg8
 ├── classObjectUML.md
 ├── classImplementation.py
 ├── classAttributesMethods.md

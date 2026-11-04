@@ -11,18 +11,19 @@ Elephant, and Monkey, based on the given class diagram.
 
 class Animal:
     def __init__(self, name: str):
-        self._name = name  # Private attribute as specified in class diagram - name: str
-
+        self._name = name  # Private attribute in class diagram yisyiss rahhhh - name: str
+    @property
     def eat(self):
         pass
-
+    @property
     def make_sound(self):
         pass
 
 
 class Lion(Animal):
     def make_sound(self):
-        return f"{self._name}# roars 
+        return f"{self._name}# roars Trex rahhh!!
+        
        
        
 
